@@ -1,0 +1,5 @@
+# Ignore executable files
+*.exe
+
+# Ignore Makefile (if you don't want to track it)
+Makefile
